@@ -1,0 +1,12 @@
+# 编译产物
+*.exe
+
+# IDE
+.claude/
+.cursor/
+
+# 设计资料
+*.pdf
+
+# 旧版
+pomodoro.html
